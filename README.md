@@ -46,12 +46,12 @@ All that being said, for this module, the challenge will consist of:
 - Figure 6. T-Test for Lot 3.
 ## Study Design for MechaCar vs the Competition
 MechaCar has proven all along that is a though company to compete against other car manufacturers prototypes, however AutosRUs need to emphasize if the MechaCar is both economically and efficient when compared to other vehicles. Since we did not made an economical analysis for the MechaCar's market, we are going to emphasize only in the car's fuel efficiency. 
-- Metric to test: To narrow down our test, we should evaluate MechaCar's carrying capacity, in cubic inches, in comparison to various competitors' vehicles.
+- Metric to test: To carry out this test, we need to compare our MechaCar's mpg efficiency with the competition's mpg efficiency. For this we need to use the american MPG metric to compare this results.
 
 - Null and Alternate Hypothesis: 
-  - H0: MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class 
-  - Ha: MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
+  - H0: MechaCar prototypes' average MPG is similar to competitor's vehicles in the same vehicle class. 
+  - Ha: MechaCar prototypes' average MPG is statistically above or below that of competitor vehicles.
 
-- Statistical Test Used: The best statistical test for this would be two-sample t-tests.
+- Statistical Test Used: The best statistical test for this would be ANOVA t-tests.
 
-- What data is needed: We would need to gather cubic space data from the carrying compartments of all MechaCar prototypes, as well as from all major competitor vehicles.
+- What data is needed: We would need to gather the average mpg data from all MechaCar prototypes, as well as from all relevant competitor vehicles.
