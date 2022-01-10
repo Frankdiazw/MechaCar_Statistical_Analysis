@@ -45,7 +45,7 @@ All that being said, for this module, the challenge will consist of:
 ![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_lot3.png)
 - Figure 6. T-Test for Lot 3.
 ## Study Design for MechaCar vs the Competition
-MechaCar has proven all along that is a though company to compete against other car manufacturers prototypes, however AutosRUs need to emphasize if the MechaCar is both economically and efficient when compared to other vehicles. Since we did not made an economical analysis for the MechaCar's market, we are going to emphasize only in the car's fuel efficiency. 
+AutosRUs has proven all along that is a though company to compete against other car manufacturers prototypes, however AutosRUs need to emphasize if the MechaCar is both economically and efficient when compared to other vehicles. Since we did not made an economical analysis for the MechaCar's market, we are going to emphasize only in the car's fuel efficiency. 
 - Metric to test: To carry out this test, we need to compare our MechaCar's mpg efficiency with the competition's mpg efficiency. For this we need to use the american MPG metric to compare this results.
 
 - Null and Alternate Hypothesis: 
