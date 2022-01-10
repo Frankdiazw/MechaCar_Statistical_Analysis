@@ -14,6 +14,8 @@ All that being said, for this module, the challenge will consist of:
 
 ## Linear Regression to Predict MPG
 
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_1_code.png)
+
 ## Summary Statistics on Suspension Coils
 
 ## T-Test on Suspension Coils
