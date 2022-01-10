@@ -18,6 +18,17 @@ All that being said, for this module, the challenge will consist of:
 
 ## Summary Statistics on Suspension Coils
 
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_2_table.png)
+
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_2_code.png)
+
+
 ## T-Test on Suspension Coils
+
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_lot1.png)
+
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_lot2.png)
+
+![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_lot3.png)
 
 ## Study Design for MechaCar vs the Competition
