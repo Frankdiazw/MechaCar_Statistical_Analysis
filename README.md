@@ -11,3 +11,11 @@ All that being said, for this module, the challenge will consist of:
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+
+## Linear Regression to Predict MPG
+
+## Summary Statistics on Suspension Coils
+
+## T-Test on Suspension Coils
+
+## Study Design for MechaCar vs the Competition
