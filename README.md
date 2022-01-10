@@ -45,4 +45,13 @@ All that being said, for this module, the challenge will consist of:
 ![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_lot3.png)
 - Figure 6. T-Test for Lot 3.
 ## Study Design for MechaCar vs the Competition
-MechaCar has proven all along that is a though company to compete against other car manufacturers prototypes, however AutosRUs need emphasize if the 
+MechaCar has proven all along that is a though company to compete against other car manufacturers prototypes, however AutosRUs need to emphasize if the MechaCar is both economically and efficient when compared to other vehicles. Since we did not made an economical analysis for the MechaCar's market, we are going to emphasize only in the car's fuel efficiency. 
+- Metric to test: To narrow down our test, we should evaluate MechaCar's carrying capacity, in cubic inches, in comparison to various competitors' vehicles.
+
+- Null and Alternate Hypothesis: 
+  - H0: MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class 
+  - Ha: MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
+
+- Statistical Test Used: The best statistical test for this would be two-sample t-tests.
+
+- What data is needed: We would need to gather cubic space data from the carrying compartments of all MechaCar prototypes, as well as from all major competitor vehicles.
