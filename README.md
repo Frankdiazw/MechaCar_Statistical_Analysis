@@ -15,13 +15,21 @@ All that being said, for this module, the challenge will consist of:
 ## Linear Regression to Predict MPG
 
 ![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_1_code.png)
+- Figure 1. Linear Model to carry our regression.
+
+- As we can see, a linear model was designed to predict the Miles per Gallon (mpg) of the Mechacar's prototypes using variables from the "MechaCar_mpg.csv" file. The variance of a non-random variable is usually 0. However, vehicle_length, and ground_clearance coeeficients provided a non-random amount of variance to the mpg values in the dataset. 
+- Looking further on the results, we can see that the value for the "p-value" is 5.35e-11 or 0.0000000000535 which is clearly much smaller than the significance level of 0.05; which is enough to reject the null hypothesis, that indcates that the slope of this linear model is not 0. 
+- Although the linear model was executed correctly, the value for the multiple R-squared is 0.7149, that means that the 71.49% of all the predictions of this models will be accurate. That being said, speaking of a high-level company this model will not be effective for the predictions.
 
 ## Summary Statistics on Suspension Coils
 
 ![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_2_table.png)
+- Figure 2. Code made to calculate the estimates of the data.
 
 ![](https://github.com/Frankdiazw/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_2_code.png)
+- Figure 3. Summary from the statistics on the Suspension Coils across all manufacturing lots and for each lot.
 
+- For this analysis summary the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. We can see in Figure 2. that the Standard Deviation for all manufacturing lots is well under 100 PSI with a value of 62.29 PSI. However, when we see the dataframes from Figure 3, there is an exorbitant 170.28 PSI value for lot 3. Nevertheless, lot 3 does not meet with the PSI requirements. 
 
 ## T-Test on Suspension Coils
 
